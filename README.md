@@ -1,187 +1,192 @@
-# 🚀 Keshav Dhanuka — Developer Portfolio
+# 🚀 Keshav Dhanuka — Personal Developer Portfolio
 
-> A modern, cinematic, and highly interactive portfolio built to showcase my projects, technical skills, achievements, and development journey through an immersive user experience.
+<p align="center">
+  <strong>Crafting modern, scalable and immersive web experiences with React, TypeScript & Tailwind CSS.</strong>
+</p>
 
-### 🌐 Live Website
-
-**🔗 Live Demo:** [https://keshovdhanuka.netlify.app/]
+<p align="center">
+🌐 <strong>Live Website:</strong> https://keshovdhanuka.netlify.app/
+</p>
 
 ---
 
-# 📖 About The Project
+# 📖 Overview
 
-This portfolio is more than just a personal website—it's an interactive digital experience designed to represent my personality as a frontend developer.
+Welcome to my personal developer portfolio!
 
-The application combines modern UI/UX principles, smooth animations, responsive layouts, and immersive interactions to create an engaging experience for visitors while highlighting my technical expertise and projects.
+This portfolio represents my journey as a frontend developer, showcasing my technical expertise, featured projects, skills, certifications, and passion for building beautiful and performant web applications.
 
-The primary goal of this portfolio is to demonstrate not only what I have built but also **how I build products**, focusing on clean architecture, performance, responsiveness, and user experience.
+Rather than being a simple resume website, this portfolio is designed to provide an engaging experience through smooth animations, modern UI, responsive layouts, and thoughtful interactions.
+
+Whether you're a recruiter, developer, or potential collaborator, this website provides everything you need to know about me and my work.
 
 ---
 
 # ✨ Features
 
-## 🎬 Cinematic Landing Experience
+## 🎯 Modern Hero Section
 
-* Beautiful loading screen
-* Interactive hero section
-* Modern animations
-* Smooth page transitions
-
-## 👨‍💻 About Me
-
-* Personal introduction
-* Career objective
-* Professional summary
-* Developer profile
-
-## ⚡ Interactive Command Palette
-
-* Keyboard-driven navigation
-* Quick access to sections
-* Improved accessibility
-* Fast portfolio exploration
-
-## 💻 Code Playground
-
-* Interactive developer-inspired section
-* Creative coding showcase
-* Dynamic interface
-
-## 🖱️ Custom Cursor
-
-* Fully customized cursor animations
-* Hover interactions
-* Modern UI experience
-
-## 📂 Projects Showcase
-
-* Featured projects
-* Project descriptions
-* Technology stack
-* GitHub links
-* Live demo links
-
-## 🛠 Tech Stack
-
-Organized technology showcase including:
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-* React
-* Vite
-* Tailwind CSS
-* Node.js
-* Express
-* Git
-* GitHub
-
-## 📈 Journey Timeline
-
-A visual timeline highlighting my learning journey, milestones, and growth as a developer.
-
-## 🎯 Skills Visualization
-
-Interactive skills section with engaging UI components.
-
-## ⭐ GitHub Showcase
-
-Highlights GitHub activity, projects, and development work.
-
-## 📬 Contact Section
-
-Easy-to-use contact form allowing visitors to connect professionally.
-
-## 📱 Fully Responsive
-
-Optimized for:
-
-* Desktop
-* Laptop
-* Tablet
-* Mobile Devices
+* Professional introduction
+* Animated headline
+* Call-to-action buttons
+* Social media links
 
 ---
 
-# ⚙️ Tech Stack
+## 👨‍💻 About Me
+
+Learn more about
+
+* My background
+* Career goals
+* Development journey
+* Passion for technology
+
+---
+
+## 🛠 Technical Skills
+
+Comprehensive overview of my technical stack including
 
 ### Frontend
 
 * React
 * TypeScript
-* Vite
-* Tailwind CSS
+* JavaScript (ES6+)
 * HTML5
 * CSS3
+* Tailwind CSS
 
 ### Backend
 
 * Node.js
-* Express
+* Express.js
 
-### UI & Animation
-
-* Motion
-* Lucide React
-
-### Development Tools
+### Tools
 
 * Git
 * GitHub
+* VS Code
 * npm
 
 ---
 
-# 📁 Project Structure
+## 🚀 Featured Projects
 
-```
+A collection of projects demonstrating
+
+* Frontend Development
+* Full Stack Applications
+* AI Integrated Projects
+* Interactive UI Design
+* API Integrations
+* Real-world Problem Solving
+
+Each project includes
+
+* Project description
+* Technology stack
+* GitHub Repository
+* Live Demo
+
+---
+
+## 💼 Experience & Learning
+
+Highlights my
+
+* Learning journey
+* Practical experience
+* Continuous improvement
+* Technical growth
+
+---
+
+## 📱 Fully Responsive Design
+
+Optimized for
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+---
+
+## ⚡ Performance Optimized
+
+* Fast loading
+* Optimized assets
+* Responsive UI
+* Clean component architecture
+
+---
+
+# 🧰 Tech Stack
+
+## Frontend
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+
+## Backend
+
+* Node.js
+* Express.js
+
+## Programming Languages
+
+* JavaScript
+* TypeScript
+
+## Tools
+
+* Git
+* GitHub
+* VS Code
+* npm
+
+---
+
+# 📂 Folder Structure
+
+```text
 src/
 │
+├── assets/
 ├── components/
-│   ├── Hero
-│   ├── About
-│   ├── TechStack
-│   ├── Projects
-│   ├── SkillsCircle
-│   ├── JourneyTimeline
-│   ├── GithubShowcase
-│   ├── ContactForm
-│   ├── Footer
-│   ├── LoadingScreen
-│   ├── TerminalOverlay
-│   ├── CommandPalette
-│   ├── CodePlayground
-│   ├── NoiseBackground
-│   └── CustomCursor
-│
-├── data.ts
-├── types.ts
+├── pages/
+├── hooks/
+├── data/
+├── utils/
 ├── App.tsx
-└── main.tsx
+├── main.tsx
+└── index.css
 ```
 
 ---
 
 # 🚀 Getting Started
 
-## Clone the repository
+## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/yourusername/portfolio.git
 ```
 
 ---
 
-## Navigate into the project
+## Navigate
 
 ```bash
-cd your-repository-name
+cd portfolio
 ```
 
 ---
 
-## Install dependencies
+## Install Dependencies
 
 ```bash
 npm install
@@ -189,7 +194,7 @@ npm install
 
 ---
 
-## Run development server
+## Start Development Server
 
 ```bash
 npm run dev
@@ -197,7 +202,7 @@ npm run dev
 
 ---
 
-## Build for production
+## Build Project
 
 ```bash
 npm run build
@@ -205,7 +210,7 @@ npm run build
 
 ---
 
-## Preview production build
+## Preview Production Build
 
 ```bash
 npm run preview
@@ -213,47 +218,50 @@ npm run preview
 
 ---
 
-# 🎯 Goals of This Portfolio
+# 🎯 Objectives
 
-* Showcase frontend development skills
-* Demonstrate modern UI/UX practices
+This portfolio was built to
+
+* Showcase frontend expertise
+* Demonstrate modern UI/UX skills
 * Present personal projects professionally
-* Highlight technical expertise
-* Build a memorable user experience
-* Serve as a central hub for recruiters, developers, and collaborators
+* Highlight technical capabilities
+* Create a memorable user experience
+* Connect with recruiters and fellow developers
 
 ---
 
-# 🌟 Highlights
+# 🌟 Key Highlights
 
-* Modern portfolio design
-* Interactive UI
-* Smooth animations
-* Responsive layout
-* Component-based architecture
-* TypeScript implementation
-* Clean code organization
-* Performance-focused development
-
----
-
-# 📬 Contact
-
-If you'd like to collaborate, discuss opportunities, or simply connect, feel free to reach out through the contact section available on the portfolio website.
-
-🌐 Portfolio: https://keshovdhanuka.netlify.app/
+* Clean UI
+* Responsive Design
+* Modern Animations
+* Interactive Components
+* Component-Based Architecture
+* Performance Optimized
+* SEO Friendly
+* Easy Navigation
 
 ---
 
-# ⭐ Support
+# 🤝 Connect With Me
 
-If you enjoyed this project, consider giving the repository a **⭐ Star**. It helps support my work and motivates me to continue building high-quality projects.
+If you'd like to collaborate, discuss opportunities, or simply connect, feel free to reach out.
+
+🌐 **Portfolio:** https://keshovdhanuka.netlify.app/
 
 ---
 
-## 👨‍💻 Author
+# ⭐ Show Your Support
 
-**Keshav Dhanuka**
+If you found this project inspiring or useful, please consider giving the repository a **⭐ Star**.
 
-Frontend Developer passionate about building modern, scalable, and visually engaging web applications that combine performance with exceptional user experience.
+It helps support my work and motivates me to build even more exciting projects.
 
+---
+
+# 👨‍💻 Author
+
+## Keshav Dhanuka
+
+Frontend Developer passionate about creating high-quality, scalable, and user-centric web applications with modern technologies and clean design principles.
