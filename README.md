@@ -4,7 +4,7 @@
 
 ### 🌐 Live Website
 
-**🔗 Live Demo:** https://keshav-portffolio.netlify.app/
+**🔗 Live Demo:** (https://keshovdhanuka.netlify.app/)
 
 ---
 
@@ -241,7 +241,7 @@ npm run preview
 
 If you'd like to collaborate, discuss opportunities, or simply connect, feel free to reach out through the contact section available on the portfolio website.
 
-🌐 Portfolio: https://keshav-portffolio.netlify.app/
+🌐 Portfolio: https://keshovdhanuka.netlify.app/
 
 ---
 
