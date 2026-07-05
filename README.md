@@ -4,7 +4,7 @@
 
 ### 🌐 Live Website
 
-**🔗 Live Demo:** (https://keshovdhanuka.netlify.app/)
+**🔗 Live Demo:** [https://keshovdhanuka.netlify.app/]
 
 ---
 
